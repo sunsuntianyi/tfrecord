@@ -2,9 +2,9 @@
 Data Preparation Script for image binary classification using TFRecord
 
 
-################################ Make sure TensorFlow version is up-to-date (1.8) ################################
+########## Make sure TensorFlow version is up-to-date (1.8) ##########
 
-################################ TOTAL 4 .py files needs to be downloaded ################################
+########## TOTAL 4 .py files needs to be downloaded ##########
 
 # create_validation_and_test_data.py
 # load_images.py
